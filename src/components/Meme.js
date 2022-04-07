@@ -52,7 +52,7 @@ function Meme() {
         />
 
         <button className="form__button" onClick={getMemeImage}>
-          Get a new meme image 😎
+          Get a new meme image 🖼
         </button>
       </div>
 
